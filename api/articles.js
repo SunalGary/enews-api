@@ -19,7 +19,7 @@ export default function handler(req, res) {
 
   try {
     // Importer les articles depuis le fichier JSON
-    const articles = require('../../articles.json');
+    const articles = require('../articles.json');
     
     // Retourner tous les articles
     res.status(200).json(articles);
