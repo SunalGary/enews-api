@@ -41,9 +41,9 @@
   ],
   "finance": [
     {
-      "title": "💰 Investment Strategies for 2024",
-      "summary": "Smart investment approaches for navigating today's economic landscape.",
-      "url": "https://example.com/investment-2024",
+      "title": "🛋 Couch Investor",
+      "summary": "Your go-to source for stock market insights and growth investing strategies. ",
+      "url": "https://www.youtube.com/@CouchInvestor",
       "category": "finance"
     },
     {
@@ -69,19 +69,26 @@
   ],
   "podcast": [
     {
-      "title": "🎧 The Science of Happiness",
-      "summary": "Research-backed strategies for improving your daily well-being.",
-      "url": "https://example.com/happiness-science",
+      "title": "🤖 AI Stories",
+      "summary": "Our guest today is Dawn Choo, founder of Interview Master and ex Data Scientist from Amazon and Meta. ",
+      "url": "https://www.youtube.com/watch?v=PBpQ4u5Gtbk&ab_channel=AIStoriesPodcast-NeilLeiser",
       "category": "podcast"
     },
     {
-      "title": "🎙️ Productivity Secrets from Top Performers",
-      "summary": "Learn the habits and routines of highly successful people.",
-      "url": "https://example.com/productivity-secrets",
+      "title": "💻 Trench Tech",
+      "summary": "Critical minds shaping ethical, inclusive tech to better understand and challenge our future.",
+      "url": "https://www.youtube.com/@trenchtechoff/videos",
       "category": "podcast"
+    },
+    {
+      "title": "🧠 Deep Dive Productivity",
+      "summary": "Explore productivity, success, and fulfillment through candid conversations with inspiring guests.",
+      "url": "https://www.youtube.com/@trenchtechoff/videos",
+      "category": "science"
     }
   ]
 
 } 
+
 
 
