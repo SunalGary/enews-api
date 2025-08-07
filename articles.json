@@ -1,0 +1,78 @@
+{
+  "tech": [
+    {
+      "title": "🚀 The Future of AI: What to Expect in 2024",
+      "summary": "Discover the latest breakthroughs in artificial intelligence and what they mean for our daily lives.",
+      "url": "https://example.com/ai-future-2024",
+      "category": "tech"
+    },
+    {
+      "title": "💻 Cybersecurity Trends: Protecting Your Digital Life",
+      "summary": "Essential security practices and emerging threats you need to know about.",
+      "url": "https://example.com/cybersecurity-2024",
+      "category": "tech"
+    },
+    {
+      "title": "📱 Smartphone Evolution: What's Next?",
+      "summary": "From foldable screens to AI cameras, explore the future of mobile technology.",
+      "url": "https://example.com/smartphone-evolution",
+      "category": "tech"
+    }
+  ],
+  "politics": [
+    {
+      "title": "🗳️ Global Elections: A Year of Change",
+      "summary": "How elections around the world are reshaping international politics.",
+      "url": "https://example.com/global-elections-2024",
+      "category": "politics"
+    },
+    {
+      "title": "🌍 Climate Policy: Nations Take Action",
+      "summary": "International efforts to combat climate change and their impact on global politics.",
+      "url": "https://example.com/climate-policy",
+      "category": "politics"
+    }
+  ],
+  "finance": [
+    {
+      "title": "💰 Investment Strategies for 2024",
+      "summary": "Smart investment approaches for navigating today's economic landscape.",
+      "url": "https://example.com/investment-2024",
+      "category": "finance"
+    },
+    {
+      "title": "📈 Cryptocurrency: Beyond the Hype",
+      "summary": "Understanding the real value and risks of digital currencies.",
+      "url": "https://example.com/crypto-analysis",
+      "category": "finance"
+    }
+  ],
+  "science": [
+    {
+      "title": "🔬 Breakthrough in Quantum Computing",
+      "summary": "Scientists achieve new milestone in quantum technology development.",
+      "url": "https://example.com/quantum-breakthrough",
+      "category": "science"
+    },
+    {
+      "title": "🌿 Medical Discovery: New Treatment Hope",
+      "summary": "Promising research that could revolutionize healthcare.",
+      "url": "https://example.com/medical-discovery",
+      "category": "science"
+    }
+  ],
+  "podcast": [
+    {
+      "title": "🎧 The Science of Happiness",
+      "summary": "Research-backed strategies for improving your daily well-being.",
+      "url": "https://example.com/happiness-science",
+      "category": "podcast"
+    },
+    {
+      "title": "🎙️ Productivity Secrets from Top Performers",
+      "summary": "Learn the habits and routines of highly successful people.",
+      "url": "https://example.com/productivity-secrets",
+      "category": "podcast"
+    }
+  ]
+} 
