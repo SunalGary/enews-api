@@ -31,6 +31,12 @@
       "summary": "International efforts to combat climate change and their impact on global politics.",
       "url": "https://example.com/climate-policy",
       "category": "politics"
+    },
+    {
+      "title": "🌍 Ici c'est sensé être le test...",
+      "summary": "Si ca fonction, trop cool !",
+      "url": "https://example.com/climate-policy",
+      "category": "politics"
     }
   ],
   "finance": [
@@ -75,4 +81,5 @@
       "category": "podcast"
     }
   ]
+
 } 
